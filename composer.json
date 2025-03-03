@@ -14,8 +14,7 @@
         "firebase/php-jwt":">=5.0.0"
     },
     "require-dev": {
-        "phpunit/phpunit":">=5.7.20",
-        "phpdocumentor/phpdocumentor": "2.8.0"
+        "phpunit/phpunit":">=5.7.20"
     },
     "keywords": [
         "exacttarget",
